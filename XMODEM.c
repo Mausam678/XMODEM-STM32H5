@@ -1,9 +1,11 @@
 /*
- * XMODEM.c
- *
- *  Created on: Aug 8, 2025
- *      Author: Rnd08
- */
+Created by Mausam Raj 
+
+Github link : https://github.com/Mausam678/XMODEM-STM32H5/blob/main/XMODEM.c
+
+
+*/
+
 
 
 #include "XMODEM.h"
@@ -291,3 +293,4 @@ int xmodem_receive(uint8_t *dest, uint32_t max_len, uint32_t timeout_ms)
         }
     }
 }
+
