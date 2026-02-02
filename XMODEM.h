@@ -1,8 +1,7 @@
 /*
- * XMODEM.h
- *
- *  Created on: Aug 8, 2025
- *      Author: Rnd08
+
+Created By Mausam Raj
+Github link : https://github.com/Mausam678/XMODEM-STM32H5/blob/main/XMODEM.c
  */
 
 #ifndef INC_XMODEM_H_
@@ -25,3 +24,4 @@ void xm_c_send(void);
 
 
 #endif /* INC_XMODEM_H_ */
+
